@@ -1,3 +1,0 @@
-C:/Users/adlercohen/DevAdler/Data_Structures_and_Algorithms/ASSIGNMENT_1/cmake-build-debug/CMakeFiles/ASSIGNMENT_1.dir
-C:/Users/adlercohen/DevAdler/Data_Structures_and_Algorithms/ASSIGNMENT_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/adlercohen/DevAdler/Data_Structures_and_Algorithms/ASSIGNMENT_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

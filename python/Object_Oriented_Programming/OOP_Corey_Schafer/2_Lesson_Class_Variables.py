@@ -14,7 +14,7 @@ class Employee:
         Employee.num_of_emps += 1
 
     def fullname(self):#Instance method
-        return '{} {}'.format(self.first, self.last)
+        return f'{self.first} {self.last}'
 
     def apply_raise(self):
         self.pay = int(self.pay * self.raise_amount)

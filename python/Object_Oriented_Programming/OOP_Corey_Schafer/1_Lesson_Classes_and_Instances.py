@@ -8,7 +8,7 @@ class Employee:
         self.email = first + '.' + '@company.com'
 
     def fullname(self):#Instance method
-        return '{} {}'.format(self.first, self.last)
+        return f'{self.first} {self.last}'
 
 #Object of class
 emp_1 = Employee('Corey', 'Schafer', 100100)
